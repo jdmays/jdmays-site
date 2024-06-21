@@ -1,4 +1,12 @@
 
+/*
+Note: If we were using a regular css stylesheet instead of Tailwind,
+we would probably not have a whole batch of separate components for the
+resume.  Yes we could define some custom classes in tailwind but by
+the time you do that, you might as well just do the whole thing in css.
+-JDM
+ */
+
 const Degree = ({ degree }) => {
     return (
         <div className="p-4 border-b">
