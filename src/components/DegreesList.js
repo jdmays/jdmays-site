@@ -5,9 +5,9 @@ const DegreesList = () => {
   return (
       <div>
         {degrees.map((degree, index) => (
-            <div key={index} className="max-w-2xl mx-auto">
-              <h2 className="text-xl font-bold">{degree.degree}</h2>
-              <p className="text-sm text-gray-500">{degree.school}, {degree.year}</p>
+            <div key={index} className="max-w-2xl my-3">
+              <h2 className="font-bold">{degree.degree}</h2>
+              <p className="text-sm italic font-semibold">{degree.school}, {degree.year}</p>
             </div>
         ))}
       </div>
