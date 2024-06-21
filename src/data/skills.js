@@ -45,3 +45,5 @@ const skills = [
         years: 2,
     },
 ];
+
+export default skills;
