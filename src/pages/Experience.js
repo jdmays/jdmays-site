@@ -8,13 +8,9 @@ const Experience = () => {
                 <h1 className="text-3xl font-bold mb-5">Experience</h1>
                 <div className="border-t border-purple-900 my-4"></div>
                 <p className="text-md text-gray-600 my-2">
-                    There are two careers buried in my experience. Back when I was a Counselor, when I told people
-                    what I did for a living, they would often look at me funny as if trying to wrap their head around me
-                    as one of those touchy-feely individuals who often gravitate toward the helping professions.
-                </p>
-                <p className="text-md text-gray-600 my-2">
-                    I was good at my job but I was more of a diagnostician - more like a Psychologist than a Therapist.
-                    Today, when I tell people what I do for work, there is no look of disbelief.  It all makes perfect sense.
+                    There are two careers buried in my experience. The first was being a Counselor and later an executive in the mental health field.
+                    But for almost 20 years now, I've been a software developer. Both fields are about solving problems and viewing things as
+                    part of a system.
                 </p>
 
                 <div className="border-t border-purple-900 my-4"></div>

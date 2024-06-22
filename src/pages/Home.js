@@ -7,12 +7,14 @@ const Home = () => {
           <h1 className="text-3xl font-bold mb-5">About Me (The TLDR Version)</h1>
           <div className="border-t border-purple-900 my-4"></div>
           <div>
+
             <p className="text-md text-gray-600 my-2">
               I'm not your typical engineer. In fact, I'll tell you a secret.
-              I'm not an engineer at all. At least not the way you might be
+              I'm not an engineer at all. At least not in the way you might be
               thinking. I'm a problem solver. I'm a creator. I'm a builder. I
               love it when a plan comes together.
             </p>
+
             <p className="text-md text-gray-600 my-2">
               Let's go back in time. Back to the halcyon days of the late 70s.
             </p>

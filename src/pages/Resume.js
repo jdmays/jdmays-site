@@ -14,7 +14,7 @@ const Resume = () => {
               <div>
                 <h2 className="text-2xl font-semibold">James D. Mays</h2>
                 <p className="text-sm text-gray-600">
-                  Senior Full Stack Engineer
+                  Software Developer
                 </p>
               </div>
               <div>
@@ -22,9 +22,6 @@ const Resume = () => {
               </div>
             </div>
             <hr className="my-4"/>
-            <div>
-              <ResumeSummary/>
-            </div>
             <div className="mt-4">
               <h3 className="text-lg font-semibold mb-2">Experience</h3>
               <ResumeExperience/>
