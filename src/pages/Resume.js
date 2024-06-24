@@ -1,5 +1,4 @@
 import ResumeAddress from '../Resume/ResumeAddress';
-import ResumeSummary from '../Resume/ResumeSummary';
 import ResumeExperience from '../Resume/ResumeExperience';
 import ResumeDegrees from "../Resume/ResumeDegrees";
 import ResumeSkillsList from "../Resume/ResumeSkillsList";

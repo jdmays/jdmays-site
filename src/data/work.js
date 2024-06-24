@@ -27,7 +27,7 @@ const work = [
     },
     {
         company: 'Lightning Step Technologies',
-        position: 'Vice President of Product Development',
+        position: 'Senior Developer (Vice President of Product Development)',
         start: 'December 2015',
         end: 'November 2020',
         startYear: '2015',

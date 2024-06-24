@@ -4,7 +4,6 @@ import Experience from './pages/Experience';
 import Skills from './pages/Skills';
 import Education from './pages/Education';
 import Resume from './pages/Resume';
-// import Interests from './pages/Interests';
 import Layout from './layouts/Layout';
 
 import './App.css';
@@ -18,7 +17,6 @@ const App = () => {
           <Route path="skills" element={<Skills />} />
           <Route path="education" element={<Education />} />
             <Route path="resume" element={<Resume />} />
-            {/*<Route path="interests" element={<Interests />} />*/}
         </Route>
       </Routes>
   );
