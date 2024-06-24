@@ -1,22 +1,23 @@
-# www.jdmays.com
+# jdmays.com
+
+## Details
+
+This website was written with React and Tailwind.  I chose Tailwind because it uses conventions that a great many CSS 
+frameworks use and it's pretty intuitive.  I've worked a lot with Bootstrap and wanted to demonstrate that not every single thing needs to be done with it. 
+
+One of the downsides of Tailwind is that unless you add custom styles, there is a lot of repetitive markup. 
+If you are adding custom styles then you might as well just use regular CSS since you aren't saving yourself any work. However, 
+since this is a pretty small project it seemed like Tailwind was the right approach.
+
+I used React to be able to demonstrate that I know how to use React.  This, at least, demonstrates some basic knowledge of the framework.
+
+I broke things up into different sections to make it cleaner but I didn't break it up as much as I could have.  To me, there is a 
+certain balance necessary when segmenting things. With this being a very small application and I'm the only one who will every work on it so there wasn't much need to be overly strict.
+
 
 ## Acknowledgements
 
-You should never start a project without seeing if someone else has done it first, and then, if they have, you should copy them.  
-Of course, you shouldn't copy them verbatim, but you should see how they are doing things make it your own.
-
-I started with the excellent work of [Michael D'Angelo] (https://mldangelo.com/).  He was kind enough to make his git repo publicly 
-available, and I was able to use it as a starting point for my own site.  
-
-I simplified things a bit and changed a lot. But the biggest thing I grabbed from his site is his honesty.  I loved the tone he set and 
-it gave me courage to be forthright about who I am.  
-
-I am nowhere near as impressive as he is, yet I hope to be impressive in my own way.  Thanks Michael for the inspiration.
-
-## Under Construction
-
-As of June 21, 2024, I'm still working on this thing. I'm going to change the resume a bit and take a really good look to ensure that 
-I didn't make any dumb errors or typos. 
-
-I will also be adding some projects to my git repository to demonstrate some expertise with React, Javascript, Laravel, and Vue.
+The first thing I did when I decided to update the website was look at what others have done.  I found an excellent site by [Michael D'Angelo] (https://mldangelo.com/). 
+I like the fact that the website is not cluttered and he injects a lot of his personality into it.  Of course, I simplified a few things 
+because I didn't think they were necessary and most importantly, his content gave me a certain amount of courage to just be myself. 
 
