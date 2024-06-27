@@ -1,6 +1,5 @@
 import React from 'react'
-
-
+import dogsChicken from '../images/greta_petra_chicken_sm.jpg';
 
 const Interests = () => {
     return (
@@ -8,37 +7,33 @@ const Interests = () => {
         <div className="container mx-auto py-10 px-1">
           <h1 className="text-3xl font-bold mb-5">Interests</h1>
           <div className="border-t border-purple-900 my-4"></div>
-          <p className="text-md text-gray-600 my-2">
-            Hey, I'm still working on this one. But be prepared to see a lot
-            about German Shepherd Dogs.
-          </p>
 
+          <p className="text-block text-left my-4">
+            I live near Roscoe, IL with my wife and our two German Shepherd dogs. We spend a lot of time outdoors
+            hiking, kayaking, and traveling whenever possible.
+          </p>
+          <p className="text-block text-left my-4">
+            I’m often in the middle of a construction project of one kind or another at our house. In the past year or
+            so I’ve built a chicken coop, a bridge over a creek on our property, a new dog house, and cleared a lot of
+            invasive trees.
+          </p>
+          <p className="text-block text-left my-4">
+            I call the chicken coop the Chicken Palace due to the fact that the chickens have heat, special lights, and
+            ventilation. Those chickens sure have it good. Now if they will only lay some eggs.
+          </p>
+          <p className="text-block text-left my-4">
+            Whatever you do, don’t ask me about dogs and definitely don’t ask about German Shepherd dogs, unless you
+            want to get into a lengthy conversation about working line versus show line shepherds or the differences
+            between shepherding styles of Border Collies and Germans Shepherd dogs. Yes, we are “Dog People” but
+            hopefully not like those other crazy dog people you might see on the internet.
+          </p>
 
           <div className="max-w-sm rounded overflow-hidden shadow-lg">
             <img
-              className="w-full"
-              src="{gretaTilt}"
-              alt="Sunset in the mountains"
+                className="h-auto max-w-full rounded-lg border bg-purple-900 p-1 my-4"
+                src={dogsChicken}
+                alt="Greta has the chicken"
             />
-            <div className="px-6 py-4">
-              <div className="font-bold text-xl mb-2">The Coldest Sunset</div>
-              <p className="text-gray-700 text-base">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Voluptatibus quia, nulla! Maiores et perferendis eaque,
-                exercitationem praesentium nihil.
-              </p>
-            </div>
-            <div className="px-6 pt-4 pb-2">
-              <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">
-                #photography
-              </span>
-              <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">
-                #travel
-              </span>
-              <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">
-                #winter
-              </span>
-            </div>
           </div>
 
           <div className="border-t border-purple-900 my-4"></div>

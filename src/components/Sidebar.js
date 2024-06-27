@@ -28,22 +28,22 @@ const Sidebar = () => {
         <div className="border-t border-purple-900 my-4"></div>
 
         <div className={"hidden sm:block"}>
+
           <h4 className="text-xl font-bold">About Me</h4>
-          <p className="text-black">I'm Jim Mays.</p>
-          <p className={"text-block"}>
+          <p className="text-black my-4">I'm Jim Mays.</p>
+          <p className={"text-block my-4"}>
             I'm a web application developer that really enjoys Making The Magic.
             I've been developing web applications since the days of Perl CGI
             scripts and I've worked with a variety of technologies over the years,
             but I'm always looking for new challenges.
           </p>
 
-          <p className={"text-block pb-8"}>
-            This site is a little different than just my resume. After all, why
-            would you need to visit if there wasn't something different. I think
-            of this as my amplified resume. It's a little more information than
-            what you might get off a job application or pdf. I hope you enjoy it.
-          </p>
-        </div>
+        <p className={"text-block pb-8 my-4"}>
+          This site is a little different than just my resume. After all, why
+          would you need to visit if there wasn't something more? I think
+          of this as my amplified resume. It's a little more information than
+          what you might get off a job application or pdf. I hope you enjoy it.
+        </p>
 
         <div className="w-1/3">
           <a href="/jim_mays_resume.pdf"
@@ -53,8 +53,9 @@ const Sidebar = () => {
             <FontAwesomeIcon icon={faFilePdf} size="lg"/>
             <span className="hidden md:inline ml-2">Download Resume</span>
           </a>
-        </div>
 
+        </div>
+        </div>
 
         <ul className="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4 py-2 pt-8">
           <li className="text-gray-600">
@@ -78,31 +79,6 @@ const Sidebar = () => {
           </li>
         </ul>
 
-
-        {/*<ul className={"flex space-x-4 py-2 pt-8"}>*/}
-        {/*  <li className={"text-gray-600"}>*/}
-        {/*    <a*/}
-        {/*      href="https://www.linkedin.com/in/jdmays/"*/}
-        {/*      aria-label={"LinkedIn"}*/}
-        {/*    >*/}
-        {/*      <FontAwesomeIcon icon={faLinkedin} size={"2x"} />*/}
-        {/*    </a>*/}
-        {/*  </li>*/}
-        {/*  <li className={"text-gray-600"}>*/}
-        {/*    <a href="https://github.com/jdmays" aria-label={"Github/jdmays"}>*/}
-        {/*      <FontAwesomeIcon icon={faGithub} size={"2x"} />*/}
-        {/*    </a>*/}
-        {/*  </li>*/}
-        {/*  <li className={"text-gray-600"}>*/}
-        {/*    <a href="mailto:jdmays@gmail.com" aria-label={"jdmays@gmail.com"}>*/}
-        {/*      <FontAwesomeIcon icon={faEnvelope} size={"2x"} />*/}
-        {/*    </a>*/}
-        {/*  </li>*/}
-        {/*  <li className={"text-gray-600 flex items-center"}>*/}
-        {/*    <FontAwesomeIcon icon={faReact} size={"2x"}/>*/}
-        {/*    <span className={"px-1 hidden sm:inline"}>Written with React</span>*/}
-        {/*  </li>*/}
-        {/*</ul>*/}
 
         <div className="border-t border-purple-900 my-4"></div>
       </section>

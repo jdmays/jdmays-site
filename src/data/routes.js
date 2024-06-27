@@ -17,12 +17,12 @@ const routes = [
         path: '/skills',
     },
     // {
-    //     label: 'Interests',
-    //     path: '/interests',
+    //     label: 'Resume',
+    //     path: '/resume',
     // },
     {
-        label: 'Resume',
-        path: '/resume',
+        label: 'Interests',
+        path: '/interests',
     },
 
 ];
