@@ -17,14 +17,9 @@ const routes = [
         path: '/skills',
     },
     {
-    },
-        label: 'Interests',
-        path: '/interests',
-    {
         label: 'Interests',
         path: '/interests',
     },
-
 ];
 
 export default routes;
