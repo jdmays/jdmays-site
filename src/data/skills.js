@@ -10,6 +10,11 @@ const skills = [
         years: '8',
     },
     {
+        title: 'C#',
+        competency: 1,
+        years: '1',
+    },
+    {
         title: 'Docker',
         competency: 3,
         years: 4,
@@ -28,6 +33,11 @@ const skills = [
         title: 'Javascript',
         competency: 3,
         years: '10+',
+    },
+    {
+        title: 'JMeter Load Testing',
+        competency: 3,
+        years: '1',
     },
     {
         title: 'JQuery',
@@ -73,6 +83,11 @@ const skills = [
         title: 'React Native',
         competency: 2,
         years: '1',
+    },
+    {
+        title: 'SQLite',
+        competency: 4,
+        years: '4',
     },
     {
         title: 'Tailwind CSS',

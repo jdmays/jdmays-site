@@ -18,7 +18,7 @@ const work = [
         startYear: '2021',
         endYear: '2024',
         summary: `Informulate delivers measurable business impact through the innovative application of software`,
-        comment: 'For this small company, I spent the majority of my time writing code for a financial services client. The business rules were pretty arcane.',
+        comment: 'For this company, I spent the majority of my time writing code for a financial services client. The greatest challenge was learning the business rules unique to the financial services industry. Mostly I worked with Laravel and JQuery in Docker containers.',
         highlights: [
             'Provide programming for web applications, employing a comprehensive range of technologies to meet customer needs.',
             'Collaborate with cross-functional teams to design, develop, and implement solutions that enhance user experience and drive business growth.',
