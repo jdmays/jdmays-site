@@ -16,10 +16,10 @@ const routes = [
         label: 'Skills',
         path: '/skills',
     },
-    // {
-    //     label: 'Resume',
-    //     path: '/resume',
-    // },
+    {
+        label: 'Interests',
+        path: '/interests',
+    },
     {
         label: 'Interests',
         path: '/interests',
