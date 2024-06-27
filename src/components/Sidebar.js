@@ -37,13 +37,12 @@ const Sidebar = () => {
             but I'm always looking for new challenges.
           </p>
 
-          <p className={"text-block pb-8"}>
-            This site is a little different than just my resume. After all, why
-            would you need to visit if there wasn't something different. I think
-            of this as my amplified resume. It's a little more information than
-            what you might get off a job application or pdf. I hope you enjoy it.
-          </p>
-        </div>
+        <p className={"text-block pb-8"}>
+          This site is a little different than just my resume. After all, why
+          would you need to visit if there wasn't something more? I think
+          of this as my amplified resume. It's a little more information than
+          what you might get off a job application or pdf. I hope you enjoy it.
+        </p>
 
         <div className="w-1/3">
           <a href="/jim_mays_resume.pdf"
