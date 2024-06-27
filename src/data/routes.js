@@ -21,6 +21,10 @@ const routes = [
     //     path: '/resume',
     // },
     {
+    },
+        label: 'Interests',
+        path: '/interests',
+    {
         label: 'Interests',
         path: '/interests',
     },
