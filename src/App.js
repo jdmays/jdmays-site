@@ -3,7 +3,6 @@ import Home from './pages/Home';
 import Experience from './pages/Experience';
 import Skills from './pages/Skills';
 import Education from './pages/Education';
-//import Resume from './pages/Resume';
 import Interests from './pages/Interests';
 import Layout from './layouts/Layout';
 
