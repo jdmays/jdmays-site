@@ -11,6 +11,9 @@ const Home = () => {
 
           <p className={"block sm:hidden text-block"}>
             I'm a web application developer that really enjoys Making The Magic.
+          </p>
+
+          <p className={"block sm:hidden text-block"}>
             I've been developing web applications since the days of Perl CGI
             scripts and I've worked with a variety of technologies over the
             years, but I'm always looking for new challenges.
@@ -20,9 +23,10 @@ const Home = () => {
             If you take a good look at my experience and eduction, you'll notice
             there are two careers buried in there. For the first twenty years or
             so I was a Mental Health Counselor and then a healthcare executive.
-            I was always interested in Information Technology and during that
-            time I was also writing programs and scripts to make my job easier.
+            Yet, I was always interested in Information Technology, so during that
+            time I was writing programs and scripts to make my job easier.
           </p>
+
           <p className="text-md text-gray-600 my-2">
             One of the threads that ties it all together is; I'm a creative
             problem-solver, I love to build things and I absolutely love it when
@@ -38,7 +42,7 @@ const Home = () => {
           <div>
             <p className="text-md text-gray-600 my-2">
               My Experience includes:
-              <ul className="text-left list-disc list-inside">
+              <ul className="text-left text-md list-disc list-inside">
                 <li>
                   Extensive travel to meet with clients and develop a set of requirements tailored to their needs.
                 </li>
