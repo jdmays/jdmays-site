@@ -2,7 +2,6 @@ import React from 'react';
 import dogsChicken from '../images/dogs_with_chickens_july_2024_sm.jpg';
 import chickenPalace from '../images/chicken_palace_aug_2023_sm.jpg';
 import dogsGsd from '../images/greta_petra_chicken_sm.jpg';
-import kayakTurtleCreek from '../images/kayak_turtle_creek_sm.jpg';
 
 const Interests = () => {
   return (
@@ -16,6 +15,7 @@ const Interests = () => {
           We spend a lot of time outdoors hiking, kayaking, and traveling
           whenever possible.
         </p>
+
         <p className="text-block text-left my-4">
           I’m often in the middle of a construction project of one kind or
           another at our house. In the past year or so I’ve built a chicken
@@ -27,7 +27,8 @@ const Interests = () => {
           <img
               className="h-48 lg:h-auto lg:w-48 flex-none bg-cover rounded-t lg:rounded-t-none lg:rounded-l text-center overflow-hidden"
               src={chickenPalace}
-              title="Woman holding a mug"
+              title="Chicken Palace"
+              alt="Chicken Palace"
           ></img>
 
           <div
@@ -50,7 +51,8 @@ const Interests = () => {
           <img
               className="h-48 lg:h-auto lg:w-48 flex-none bg-cover rounded-t lg:rounded-t-none lg:rounded-l text-center overflow-hidden"
               src={dogsGsd}
-              title="Woman holding a mug"
+              title="German Super Dogs"
+              alt="German Shepherds"
           >
           </img>
           <div
@@ -73,7 +75,8 @@ const Interests = () => {
           <img
               className="h-48 lg:h-auto lg:w-48 flex-none bg-cover rounded-t lg:rounded-t-none lg:rounded-l text-center overflow-hidden"
               src={dogsChicken}
-              title="Woman holding a mug"
+              title="Dogs with Chickens"
+              alt="Dogs with Chickens"
           >
           </img>
           <div
