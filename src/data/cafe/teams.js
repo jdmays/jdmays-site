@@ -67,7 +67,7 @@ const teams = [
         id: 6,
     },
     {
-        name: "Steve and Rosie",
+        name: "Steve and Rosie Patterson",
         short_blurb: "a short blurb here",
         bio: "After winning the nobel prize for their ground breaking work on Quantum Physics... etc.  ",
         contact_info: "Email or cell or whatever you want to provide.  Optional",

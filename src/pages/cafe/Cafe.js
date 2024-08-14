@@ -42,7 +42,7 @@ const Cafe = () => {
 
 
                 <p className={"text-block my-4 py-2"}>
-                    We enjoy meeting with and international students and learning more about their cultures. Join us!
+                    We enjoy meeting international students and learning more about their cultures. Join us!
                 </p>
 
                 <div className="border-t border-purple-900 my-4"></div>
