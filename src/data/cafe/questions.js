@@ -64,7 +64,7 @@ const questions = [
 
     {
         query: "You said we meet at a church, but the building looks nothing like a church. Why?",
-        short_answer: "Americans are weird about religion. Many of our churches look like shopping malls.",
+        short_answer: "Religion has a unique place in American culture. Many of our churches look like shopping malls.",
         answer: "Many of us have visited grand cathedrals in Europe. They are awesome but it doesn't seem like much is happening there.  For many Americans, attending church is just a part of our lives, like going to the shopping mall, only better.",
         version: '1.0',
         author: 'JD Mays',
@@ -92,7 +92,7 @@ const questions = [
 
     {
         query: "When is it?",
-        short_answer: "Usually, every other week throughout the academic year.",
+        short_answer: "Usually, every other Friday throughout the academic year.",
         answer: "We will post a schedule and also send out a reminder. Please give us your email and/or phone number so we can send it to you.",
         version: '1.0',
         author: 'JD Mays',
