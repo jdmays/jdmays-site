@@ -8,7 +8,7 @@ const CafeContact = () => {
           Did you make the List?
         </p>
         <p className="text-lg text-gray-600 my-2">
-          We send out a reminder the week of the Cafe and also if there are any
+          We send out a reminder the week of the Café and also if there are any
           changes in the location or meeting date. But we can't do that unless
           we have your contact information. Please fill out the contact form at
           the link below so we have you on the list.

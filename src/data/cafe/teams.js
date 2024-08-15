@@ -13,16 +13,16 @@
 const teams = [
     {
         name: "Marissa DeVlieger",
-        short_blurb: "A short little thing here that is the first line or paragraph.",
-        bio: "More of an extended thing about you. ",
-        contact_info: "Email or cell or whatever you want to provide.  Optional",
-        quirky: "Something clever to make you seem cool and memorable (Optional - Not everyone likes to be quirky)",
+        short_blurb: "A short little thing here that is the first line or paragraph. Optional",
+        bio: "Marissa grew up in the Rockford area and currently does some kind of job that Jim doesn't remember, but he's sure it's really important.",
+        contact_info: "Email or cell or whatever you want to provide.  This is Optional",
+        quirky: "Something clever to make you seem cool and memorable (Optional)",
         image: '',
         id: 1,
     },
     {
         name: "Lisa Downing",
-        short_blurb: "a short blurb here",
+        short_blurb: "",
         bio: "After winning the nobel prize for their ground breaking work on Quantum Physics... etc.  ",
         contact_info: "Email or cell or whatever you want to provide.  Optional",
         quirky: "Something clever to make you seem cool and memorable",
@@ -51,10 +51,15 @@ const teams = [
     {
         name: "Jim and Melanie Mays",
         short_blurb: "Don't ask them about their dogs.",
-        bio: "I hate writing these bios as much as anyone.  ",
-        contact_info: "",
-        quirky: "Favorite Candy Bar: Reese's",
-        image: 'JD Mays',
+        bio: "Jim and Melanie are from the Rockford area.  Melanie is a retired teacher and Jim is a computer programmer.  " +
+            "They have two adult children; one who lives in Wisconsin and another who lives in Rockford.  They stay active " +
+            "kayaking, hiking, and doing projects around the house. They have two German Shepherd Dogs that keep them busy. " +
+            "They’ve traveled a little internationally and do so whenever they get the opportunity.  Melanie likes to create " +
+            "art and feed their chickens when she is not training their dogs. " +
+            "Jim is interested in history and knows more about random subjects than most normal people. He likes to take on Impossible Missions in his spare time.",
+        contact_info: "Jim: jdmays@gmail.com, +1 (815) 222-9152 Melanie: melaniemays@gmail.com +1 (815) 990-9230",
+        quirky: "",
+        image: "",
         id: 5,
     },
     {

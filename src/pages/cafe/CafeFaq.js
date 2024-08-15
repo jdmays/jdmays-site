@@ -8,7 +8,7 @@ const CafeFaq = () => {
                 <h1 className="text-3xl font-bold mb-5">Frequently Asked Questions</h1>
                 <div className="border-t border-purple-900 my-4 w-full"></div>
                 <p className="text-xl text-gray-600 font-semibold my-2">
-                   Frequently asked questions about the Rockford International Cafe.
+                   Frequently Asked Questions About The Rockford International Café
                 </p>
 
                 <CafeQuestionsList/>

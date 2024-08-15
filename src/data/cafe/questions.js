@@ -10,16 +10,16 @@
  */
 const questions = [
     {
-        query: "Is Rockford International Café’ connected with Rockford University?",
+        query: "Is Rockford International Café connected with Rockford University?",
         short_answer: "",
-        answer: "No, but we are volunteers with the Community Friends Program at Rockford University. We maintain regular contact with RU and usually someone from the RU Office of Global Affairs attends. We started Rockford International Café’ (RIC) as a way to better meet students in the Community Friends Program.",
+        answer: "No, but we are volunteers with the Community Friends Program at Rockford University. We maintain regular contact with RU and usually someone from the RU Office of Global Affairs attends. We started Rockford International Café (RIC) as a way to better meet students in the Community Friends Program.",
         version: '1.0',
         author: 'JD Mays',
         number: 1,
     },
 
     {
-        query: "Do the people that are part of Rockford International Cafe (RIC) get paid in any way?",
+        query: "Do the people that are part of Rockford International Café (RIC) get paid in any way?",
         short_answer: "",
         answer: "No. We are all volunteers. Originally, we were (and still are) community friends but we thought that having a regular event would make it easier for both us and the students to make connections.",
         version: '1.0',
@@ -28,7 +28,7 @@ const questions = [
     },
 
     {
-        query: "What is the purpose of RIC (Rockford International Cafe)?",
+        query: "What is the purpose of RIC (Rockford International Café)?",
         short_answer: "The Cafe provides a low stress way of meeting and interacting with Americans outside of school.",
         answer: "Imagine coming to the United States for the first time. Maybe you don't speak English that well and then some strange person invites you to their house for dinner.  \n" +
             "What to expect?  Should I bring something?  How should I dress?  Will we be eating something weird? Awkward, right? \n" +
@@ -83,7 +83,7 @@ const questions = [
 
     {
         query: "If I don't have a car, how do I get there?",
-        short_answer: "We will pick you up at 5:45 pm at Burpee on Cafe nights. Please be on time. (Jim hates to eat late.)",
+        short_answer: "We will pick you up at 5:45 pm at Burpee on Café nights. Please be on time. (Jim hates to eat late.)",
         answer: "Our usual location is across East State Street and then East about a mile. It's a little difficult to find and there is no sidewalk on East State Street. (We are a car culture and we drive everywhere, even when we should walk.)",
         version: '1.0',
         author: 'JD Mays',
