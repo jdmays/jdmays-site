@@ -19,7 +19,7 @@ const CafeSidebar = () => {
       </div>
 
       <h2 className="text-lg mx-4 px-8 font-bold text-black">
-        Rockford International Cafe
+        Rockford International Café
       </h2>
 
       <section className="mx-8 px-8 space-y-4">

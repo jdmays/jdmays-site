@@ -18,10 +18,10 @@ const Cafe = () => {
         </div>
 
         <h2 className="block sm:hidden text-2xl font-bold text-black pb-3">
-          Rockford International Cafe
+          Rockford International Café
         </h2>
 
-        <h4 className="text-3xl font-bold mb-5 pt-2">About The Cafe'</h4>
+        <h4 className="text-3xl font-bold mb-5 pt-2">About The Café</h4>
         <div className="border-t border-purple-900 my-4"></div>
             <div className="bg-purple-100">
                 <p className={"text-block my-4 py-2"}>
