@@ -30,7 +30,7 @@ const CafeNavbar = () => {
                     .filter((l) => l.index)
                     .map((l) => (
                       <Link
-                        className="text-white-800 hover:text-orange-400"
+                        className="text-white-800 hover:text-green-400"
                         key={l.path}
                         to={l.path}
                       >
@@ -45,7 +45,7 @@ const CafeNavbar = () => {
                       <NavLink
                         key={l.path}
                         to={l.path}
-                        className="text-white-800 hover:text-orange-400 navlinks"
+                        className="text-white-800 hover:text-green-400 navlinks"
                       >
                         {l.label}
                       </NavLink>

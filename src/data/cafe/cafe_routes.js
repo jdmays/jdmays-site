@@ -8,10 +8,10 @@ const cafe_routes = [
         label: 'FAQ',
         path: '/cafe/cafefaq',
     },
-    {
-        label: 'Team',
-        path: '/cafe/cafeteam',
-    },
+    // {
+    //     label: 'Team',
+    //     path: '/cafe/cafeteam',
+    // },
     {
         label: 'Contact',
         path: '/cafe/cafecontact',

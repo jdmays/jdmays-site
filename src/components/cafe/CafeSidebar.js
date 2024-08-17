@@ -1,8 +1,6 @@
-import laptop from '../../images/home_laptop.jpg';
 import { faEnvelope } from '@fortawesome/free-regular-svg-icons/faEnvelope';
 import { faReact } from '@fortawesome/free-brands-svg-icons/faReact';
 import jimLabsLogo from '../../images/jimlabs.png';
-import peoplePic from '../../images/i-dont-know-any-of-these-people.jpg';
 import saladPic from '../../images/salad-it-has-to-be-salad.jpg';
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
@@ -24,7 +22,7 @@ const CafeSidebar = () => {
 
       <section className="mx-8 px-8 space-y-4">
         <div className="border-t border-purple-900 my-4"></div>
-        <div className="text-xs tracking-wider">JDMays@gmail.com</div>
+        <div className="text-xs tracking-wider hover:text-green-400 font-semibold">JDMays@gmail.com</div>
 
         <div className="border-t border-purple-900 my-4"></div>
 

@@ -36,7 +36,7 @@ const Cafe = () => {
 
                 <p className={"text-block my-4 py-2"}>
                     International Café is not connected with Rockford University except that we are also volunteers with
-                    the <a className="text-purple-800 pl-1 hover:text-orange-400" href="https://www.rockford.edu/community/globalaffairs/">Rockford
+                    the <a className="text-purple-800 pl-1 hover:text-green-400" href="https://www.rockford.edu/community/globalaffairs/">Rockford
                     University Community Friends Program through the Office of Global Affairs.</a>
                 </p>
 
