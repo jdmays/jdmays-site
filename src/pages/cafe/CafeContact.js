@@ -13,8 +13,8 @@ const CafeContact = () => {
           we have your contact information. Please fill out the contact form at
           the link below so we have you on the list.
         </p>
-        <p className="text-2xl text-purple-800 my-2 hover:text-orange-400">
-          <a href="https://docs.google.com/forms/d/e/1FAIpQLSe39oETr9r8Tf2yO9nYIG1i0wVUZVmpUVdUegYnWCgornGpeg/viewform">
+        <p className="text-2xl text-purple-800 my-2 hover:text-green-400">
+          <a target="_new" href="https://docs.google.com/forms/d/e/1FAIpQLSe39oETr9r8Tf2yO9nYIG1i0wVUZVmpUVdUegYnWCgornGpeg/viewform">
             Contact Form
           </a>
         </p>
