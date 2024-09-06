@@ -10,6 +10,7 @@ import Layout from './layouts/Layout';
 import CafeLayout from './layouts/CafeLayout';
 import CafeTeam from './pages/cafe/CafeTeam';
 import CafeContact from './pages/cafe/CafeContact';
+import CafeSchedule from "./pages/cafe/CafeSchedule";
 
 import './App.css';
 
@@ -26,6 +27,7 @@ const App = () => {
 
             <Route path="/cafe" element={<CafeLayout />}>
                 <Route index element={<Cafe />} />
+                <Route path="cafeschedule" element={<CafeSchedule />} />
                 <Route path="cafefaq" element={<CafeFaq />} />
                 <Route path="cafeteam" element={<CafeTeam />} />
                 <Route path="cafecontact" element={<CafeContact />} />
